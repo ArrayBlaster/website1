@@ -161,7 +161,7 @@ header{
 .hero-service{
     width: 100%;
     height: 100vh;
-    background: url("Images/businesswoman-working-office-with-smile-while-sitting.jpg") center no-repeat;
+    background: url("businesswoman-working-office-with-smile-while-sitting.jpg") center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -171,7 +171,7 @@ header{
 .hero-about{
     width: 100%;
     height: 100vh;
-    background: url("Images/flat-lay-office-desk-assortment-with-copy-space.jpg") center no-repeat;
+    background: url("flat-lay-office-desk-assortment-with-copy-space.jpg") center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -374,7 +374,7 @@ header{
 }
 
 .discover-our-story-about{
-    background: url("Images/close-up-net-badminton-court-filtered-image-processed.jpg") center no-repeat;
+    background: url("close-up-net-badminton-court-filtered-image-processed.jpg") center no-repeat;
     background-size: cover;
 }
 
